@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: edi-recycling-points-api
+
+vars:
+  json_name: edi-recycling.json
+  bucket_name: environment-app
