@@ -10,7 +10,7 @@ Resources:
     Properties:
       Handler: edi.recycling.points.api.StreamLambdaHandler::handleRequest
       Runtime: java8
-      CodeUri: s3://environment-app/4ac995ae34a78164edb3816ec434b51d
+      CodeUri: s3://environment-app/c1efecda12932b5eafec86d28730b174
       MemorySize: 512
       Policies: AWSLambdaBasicExecutionRole
       Timeout: 900
